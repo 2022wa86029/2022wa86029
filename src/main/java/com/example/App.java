@@ -2,6 +2,6 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello from Jenkins Continuous Integration Lab");
+        System.out.println("Hello from Jenkins Continuous Integration Lab - Version 2");
     }
 }
